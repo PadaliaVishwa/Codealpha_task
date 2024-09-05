@@ -1,3 +1,0 @@
-INFO:root:Connection from ('127.0.0.1', 13770) established.
-INFO:root:User user authenticated.
-ERROR:root:File example_file.txt does not exist.
